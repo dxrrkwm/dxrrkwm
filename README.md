@@ -1,5 +1,5 @@
 # 💫 About Me:
-🍒 Hi! My name is Vadym<br><br>📚 -I have some experience with such technologies as React, MongoDB, Docker, Kafka. <br>⚛️ -Currently learning Python(Django, Flask) and a bit of Rust.<br><br>👋 -Proficient in English with a C1 CEFR level. <br>💬 -Excellent communication skills.<br><br>🚀 -Motivated and fast learning beginner Python developer. <br>✨ -Driven to constantly develop and improve skills. -Seeking new opportunities and connections. <br> 🌸 How to reach me: ohnooq1@gmail.com
+🍒 Hi! My name is Vadym<br><br>📚 -I have some experience with such technologies as React, MongoDB, Tailwind, Redux. <br>⚛️ -Currently learning Python(Django, FastAPI, DRF) and Rust.<br><br>👋 -Proficient in English with a C1 level. <br>💬 -Excellent communication skills.<br><br>🚀 -Motivated and fast learning beginner Python developer. <br>✨ -Driven to constantly develop and improve skills. -Seeking new opportunities and connections. <br> 🌸 How to reach me: ohnooq1@gmail.com
 
 
 ## 🌐 Socials:
